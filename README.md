@@ -1,3 +1,19 @@
+
+<https://github.com/orgs/manoa-bird-watch/repositories>
+[Team Contract]<https://github.com/manoa-bird-watch/manoa-bird-watch.github.io/blob/issue-09/teamcontract.md>
+
+(in progress)
+## Deployment
+A section called “Deployment” containing a link to the deployed application running on Vercel. 
+Up-to-date screen shots showing the state of the project.
+
+M1 Project and its issues can be seen here:
+<https://github.com/manoa-bird-watch/M1>
+M2 Project and its issues can be seen here: 
+<https://github.com/manoa-bird-watch/M2>
+
+## Project Proposal:
+
 ## Overview
 
 _The problem:_ The Manoa campus is home to a diverse collection of plant and animal species, including many native to Hawaii. As a result, there are many avid bird watchers and people interested in where to find bird species, what time of day can you see these birds, and what bird species are you actually looking at. How can you find the bird you are looking for on campus reliably?
