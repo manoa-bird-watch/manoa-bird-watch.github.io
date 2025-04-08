@@ -1,8 +1,8 @@
 
-Our Github Organization and Repositories
+Our Github Organization and Repositories  
 <https://github.com/orgs/manoa-bird-watch/repositories>  
 
-Team Contract
+Team Contract  
 <https://github.com/manoa-bird-watch/manoa-bird-watch.github.io/blob/issue-09/teamcontract.md>
 
 (in progress)
