@@ -1,12 +1,14 @@
 
+Our Github Organization and Repositories
 <https://github.com/orgs/manoa-bird-watch/repositories>  
 
-[Team Contract]<https://github.com/manoa-bird-watch/manoa-bird-watch.github.io/blob/issue-09/teamcontract.md>
+Team Contract
+<https://github.com/manoa-bird-watch/manoa-bird-watch.github.io/blob/issue-09/teamcontract.md>
 
 (in progress)
 ## Deployment
-A section called “Deployment” containing a link to the deployed application running on Vercel.  
-Up-to-date screen shots showing the state of the project.  
+- A section called “Deployment” containing a link to the deployed application running on Vercel.
+- Up-to-date screen shots showing the state of the project.  
 
 M1 Project and its issues can be seen here:  
 <https://github.com/manoa-bird-watch/M1>  
