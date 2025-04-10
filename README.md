@@ -3,8 +3,17 @@ Our Github Organization and Repositories
 
 Team Contract  
 <https://github.com/manoa-bird-watch/manoa-bird-watch.github.io/blob/issue-09/teamcontract.md>
-
 (in progress)
+
+## Table of contents
+[Deployment](#deployment)
+[Project Proposal](#project-proposal)
+[Overview](#overview)
+[Approach](#approach)
+[Features](#features)
+[Use Case Ideas](#use-case-ideas)
+[Beyond the Basics](#beyond-the-basics)
+
 ## Deployment
 - A section called “Deployment” containing a link to the deployed application running on Vercel.
 - Up-to-date screen shots showing the state of the project.  
@@ -14,7 +23,7 @@ M1 Project and its issues can be seen here:
 M2 Project and its issues can be seen here:   
 <https://github.com/manoa-bird-watch/M2>  
 
-## Project Proposal:
+## Project Proposal
 
 <img width="400px" style="border-radius: 10%;" class="rounded float-start pe-4" src="Images\manoa_bird_watch_landing_page.png">
 <img width="400px" style="border-radius: 10%;" class="rounded float-start pe-4" src="Images\manoa_bird_watch_login_page.png">
@@ -31,7 +40,7 @@ _The solution:_ Design a website to collect a list of birds and various informat
 
 Users can create an account and update information about a bird species. Each bird species will have profile listing information about their name/species, location on campus, description, and the time of day and time of year they can be spotted on campus. Users can add information in the form of bird sightings, including location and date of the sighting. 
 
-## Mockup Page Ideas
+## Features
 
 Our current idea is for this project to make use of 4 distinct pages: a main landing page displaying cards containing the information of different observed bird species, a login page where users can register and sign in, a “report sighting” page where users can add the birds that they have seen and the information they have of them (image, description, location etc…) to a database, and a “list sightings” page where users can see all of the birds they have seen previously, as well as add, delete, or edit past bird sightings.
 
