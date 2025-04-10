@@ -6,17 +6,17 @@ Team Contract
 (in progress)
 
 ## Table of contents
-[Deployment](#deployment)
-[Project Proposal](#project-proposal)
-[Overview](#overview)
-[Approach](#approach)
-[Features](#features)
-[Use Case Ideas](#use-case-ideas)
-[Beyond the Basics](#beyond-the-basics)
+1. [Deployment](#deployment)
+2. [Project Proposal](#project-proposal)
+3. [Overview](#overview)
+4. [Approach](#approach)
+5. [Features](#features)
+6. [Use Case Ideas](#use-case-ideas)
+7. [Beyond the Basics](#beyond-the-basics)
 
 ## Deployment
 - A section called “Deployment” containing a link to the deployed application running on Vercel.
-- Up-to-date screen shots showing the state of the project.  
+- Up-to-date screen shots showing the state of the project.
 
 M1 Project and its issues can be seen here:  
 <https://github.com/manoa-bird-watch/M1>  
