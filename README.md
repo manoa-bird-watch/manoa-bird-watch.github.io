@@ -20,6 +20,7 @@ Team Contract
 
 M1 Project and its issues can be seen here:  
 <https://github.com/manoa-bird-watch/M1>  
+<https://github.com/orgs/manoa-bird-watch/projects/1/views/1?layout=board>
 M2 Project and its issues can be seen here:   
 <https://github.com/manoa-bird-watch/M2>  
 
