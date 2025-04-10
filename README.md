@@ -21,15 +21,16 @@ Team Contract
 M1 Project and its issues can be seen here:  
 <https://github.com/manoa-bird-watch/M1>  
 <https://github.com/orgs/manoa-bird-watch/projects/1/views/1?layout=board>
+
 M2 Project and its issues can be seen here:   
 <https://github.com/manoa-bird-watch/M2>  
 
 ## Project Proposal
 
-<img width="400px" style="border-radius: 10%;" class="rounded float-start pe-4" src="Images\manoa_bird_watch_landing_page.png">
-<img width="400px" style="border-radius: 10%;" class="rounded float-start pe-4" src="Images\manoa_bird_watch_login_page.png">
-<img width="400px" style="border-radius: 10%;" class="rounded float-start pe-4" src="Images\manoa_bird_watch_report_sighting_page.png">
-<img width="400px" style="border-radius: 10%;" class="rounded float-start pe-4" src="Images\manoa_bird_watch_your_sightings_page.png">
+<img width="600px" style="border-radius: 10%;" class="rounded float-start pe-4" src="Images\manoa_bird_watch_landing_page.png">
+<img width="600px" style="border-radius: 10%;" class="rounded float-start pe-4" src="Images\manoa_bird_watch_login_page.png">
+<img width="600px" style="border-radius: 10%;" class="rounded float-start pe-4" src="Images\manoa_bird_watch_report_sighting_page.png">
+<img width="600px" style="border-radius: 10%;" class="rounded float-start pe-4" src="Images\manoa_bird_watch_your_sightings_page.png">
 
 ## Overview
 
