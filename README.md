@@ -3,7 +3,6 @@ Our Github Organization and Repositories
 
 Team Contract  
 <https://github.com/manoa-bird-watch/manoa-bird-watch.github.io/blob/issue-09/teamcontract.md>
-(in progress)
 
 ## Table of contents
 1. [Deployment](#deployment)
