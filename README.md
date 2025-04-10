@@ -6,10 +6,10 @@ Team Contract
 <https://github.com/manoa-bird-watch/manoa-bird-watch.github.io/blob/issue-09/teamcontract.md>
 
 Members
-[Ace](https://github.com/Acezorey)
-[Alana](https://github.com/awesly)
-[Jeffrey](https://github.com/jeffrey8193)
-[Devi](https://github.com/Chayanika-Devi)
+-[Ace](https://github.com/Acezorey)
+-[Alana](https://github.com/awesly)
+-[Jeffrey](https://github.com/jeffrey8193)
+-[Devi](https://github.com/Chayanika-Devi)
 
 ## Table of contents
 1. [Deployment](#deployment)
