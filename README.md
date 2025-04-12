@@ -1,5 +1,7 @@
 Software Engineering Project 2025 (ICS 314)
+
 Project Title: Manoa Bird Watch
+
 Our Github Organization and Repositories  
 <https://github.com/orgs/manoa-bird-watch/repositories>  
 
