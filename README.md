@@ -38,8 +38,9 @@ M2 Project and its issues can be seen here:
 
 - create mockups of each page (completed by Ace Reyes)
 - deploy the nextjs application template (will be completed by Jeffrey Jian)
-- create the color blocked landing page (will be completed by __ )
-- create the sign in / register page, which is linked in the navbar of the landing page (will be completed by __ )
+- create the color blocked landing page 
+- create the sign in / register page, which is linked in the navbar of the landing page
+- create M2 project and add issues to it
 
 ## Design Plan for M2
 
