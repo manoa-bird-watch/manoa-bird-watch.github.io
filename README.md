@@ -9,10 +9,10 @@ Team Contract
 <https://github.com/manoa-bird-watch/manoa-bird-watch.github.io/blob/issue-09/teamcontract.md>
 
 Members
-- [Ace](https://github.com/Acezorey)
-- [Alana](https://github.com/awesly)
-- [Jeffrey](https://github.com/jeffrey8193)
-- [Devi](https://github.com/Chayanika-Devi)
+- [Ace Reyes](https://github.com/Acezorey)
+- [Alana Wesly](https://github.com/awesly)
+- [Jeffrey Jian](https://github.com/jeffrey8193)
+- [Chayanika Devi](https://github.com/Chayanika-Devi)
 
 ## Table of contents
 1. [Deployment](#deployment)
@@ -33,6 +33,22 @@ M1 Project and its issues can be seen here:
 
 M2 Project and its issues can be seen here:   
 <https://github.com/manoa-bird-watch/M2>  
+
+## Design Plan for M1
+
+- create mockups of each page (completed by Ace Reyes)
+- deploy the nextjs application template (will be completed by Jeffrey Jian)
+- create the color blocked landing page (will be completed by __ )
+- create the sign in / register page, which is linked in the navbar of the landing page (will be completed by __ )
+
+## Design Plan for M2
+
+- add user guide and developer guide to home page with updated screenshots of the pages
+- add four more pages:
+  - birds of manoa page
+  - report sightings page
+  - list your sightings page
+  - list all sightings page
 
 ## Project Proposal
 
@@ -69,4 +85,4 @@ There are many possible use cases for this website. An initial one is, a new use
 
 - Create a map that can be filtered by bird species. The map should show the bird species name, origin of the species whether it is migratory or Hawaiian bird once you click on the spotted location. 
 - Add bird calls to each species
-- A tracker displaying a user’s streak of how many days in a row they have reported a bird sighting, and a graph showing their rate of birds sighted over time. 
+- A tracker displaying a user’s streak of how many days in a row they have reported a bird sighting, and a graph showing their rate of birds sighted over time.
