@@ -29,27 +29,27 @@ Members
 
 M1 Project and its issues can be seen here:  
 <https://github.com/manoa-bird-watch/M1>  
-<https://github.com/orgs/manoa-bird-watch/projects/1/views/1?layout=board>
+<https://github.com/orgs/manoa-bird-watch/projects/1>
 
 M2 Project and its issues can be seen here:   
-<https://github.com/manoa-bird-watch/M2>  
+<https://github.com/orgs/manoa-bird-watch/projects/4/views/1?system_template=team_planning>  
 
 ## Design Plan for M1
 
-- create mockups of each page (completed by Ace Reyes)
-- deploy the nextjs application template (will be completed by Jeffrey Jian)
+- create mockups of each page 
+- deploy the nextjs application template
 - create the color blocked landing page 
 - create the sign in / register page, which is linked in the navbar of the landing page
 - create M2 project and add issues to it
 
 ## Design Plan for M2
 
-- add user guide and developer guide to home page with updated screenshots of the pages
 - add four more pages:
   - birds of manoa page
   - report sightings page
   - list your sightings page
   - list all sightings page
+- add user guide and developer guide to home page with updated screenshots of the pages
 
 ## Project Proposal
 
