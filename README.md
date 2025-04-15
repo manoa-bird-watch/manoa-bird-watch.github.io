@@ -24,8 +24,15 @@ Members
 7. [Beyond the Basics](#beyond-the-basics)
 
 ## Deployment
-- A section called “Deployment” containing a link to the deployed application running on Vercel.
-- Up-to-date screen shots showing the state of the project.
+Here is the deployed application:
+<https://m1-git-main-jeffrey8193s-projects.vercel.app/>
+
+It currently features the landing page, which has a navbar with links to the sign up and sign in page, and below features some currently highlighted bird species that can be seen in Manoa.
+<img width="600px" style="border-radius: 10%;" class="rounded float-start pe-4" src="Images\manoa_bird_watch_landing_page_M1.png">
+<img width="600px" style="border-radius: 10%;" class="rounded float-start pe-4" src="Images\manoa_bird_watch_landing_page2_M1.png">
+<img width="600px" style="border-radius: 10%;" class="rounded float-start pe-4" src="Images\manoa_bird_watch_sign_up_page_M1.png">
+<img width="600px" style="border-radius: 10%;" class="rounded float-start pe-4" src="Images\manoa_bird_watch_sign_in_page_M1.png">
+
 
 M1 Project and its issues can be seen here:  
 <https://github.com/manoa-bird-watch/M1>  
