@@ -52,6 +52,7 @@ M2 Project and its issues can be seen here:
 
 ## Design Plan for M2
 
+- update the schema prisma for better funcitonality and add bird data
 - add four more pages:
   - birds of manoa page
   - report sightings page
@@ -62,7 +63,6 @@ M2 Project and its issues can be seen here:
 ## User Guide 
 
 (needs to be added still)
-
 
 ## Developer Guide
 
