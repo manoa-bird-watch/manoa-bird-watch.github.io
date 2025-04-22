@@ -56,7 +56,7 @@ Projects and their issues can be seen here:
 [Code repo](https://github.com/manoa-bird-watch/M1)  
 [M1 issues board](https://github.com/orgs/manoa-bird-watch/projects/1/views/1?layout=board)  
 [M2 issues board](https://github.com/orgs/manoa-bird-watch/projects/4/views/1)  
-[M3 issues board](https://github.com/orgs/manoa-bird-watch/projects/5/views/1?system_template=team_planning&layout=table)  
+[M3 issues board](https://github.com/orgs/manoa-bird-watch/projects/5/views/1?system_template=team_planning)  
 
 ## Design Plan 
 
