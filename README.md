@@ -15,15 +15,33 @@ Members
 - [Chayanika Devi](https://github.com/Chayanika-Devi)
 
 ## Table of contents
-1. [Deployment](#deployment)
-2. [Project Proposal](#project-proposal)
-3. [Overview](#overview)
-4. [Approach](#approach)
-5. [Features](#features)
-6. [Use Case Ideas](#use-case-ideas)
-7. [Beyond the Basics](#beyond-the-basics)
+1. [Overview](#overview)
+2. [User Guide](#user-guide)
+3. [Developer Guide](#developer-guide)
+4. [Deployment](#deployment)
+5. [Design Plan](design-plan)
+6. [Project Proposal](#project-proposal)
+7. [Approach](#approach)
+8. [Features](#features)
+9. [Use Case Ideas](#use-case-ideas)
+10. [Beyond the Basics](#beyond-the-basics)
+
+## Overview
+
+_The problem:_ The Manoa campus is home to a diverse collection of plant and animal species, including many native to Hawaii. As a result, there are many avid bird watchers and people interested in where to find bird species, what time of day can you see these birds, and what bird species are you actually looking at. How can you find the bird you are looking for on campus reliably?
+
+_The solution:_ Design a website to collect a list of birds and various information about them such as spotted locations, species and name, and what time of day and what part of the year can you spot them. Users can login and post information about where the birds have been spotted to better aid other bird watchers in finding them. 
+
+## User Guide 
+
+(needs to be added still)
+
+## Developer Guide
+
+(needs to be added still)
 
 ## Deployment
+
 Here is the deployed application:
 <https://m1-git-main-jeffrey8193s-projects.vercel.app/>
 
@@ -35,23 +53,27 @@ It currently features the landing page, which has a navbar with links to the sig
 
 
 M1 Project and its issues can be seen here:  
-<https://github.com/manoa-bird-watch/M1>  
-<https://github.com/orgs/manoa-bird-watch/projects/1/views/1?layout=board>
+[code repo]<https://github.com/manoa-bird-watch/M1>  
+[issues board]<https://github.com/orgs/manoa-bird-watch/projects/1/views/1?layout=board>
 
 M2 Project and its issues can be seen here:   
-<https://github.com/orgs/manoa-bird-watch/projects/4>  
-<https://github.com/orgs/manoa-bird-watch/projects/4/views/1>
+[code repo]<https://github.com/manoa-bird-watch/manoa-bird-watch-app>  
+[issues board]<https://github.com/orgs/manoa-bird-watch/projects/4/views/1>
 
-## Design Plan for M1
+M3 Project and its issues can be seen here:
+[code repo]<https://github.com/manoa-bird-watch/manoa-bird-watch-app>
+[issues board]<https://github.com/orgs/manoa-bird-watch/projects/5/views/1?system_template=team_planning&layout=table>
 
+## Design Plan 
+
+For M1:
 - create mockups of each page 
 - deploy the nextjs application template
 - create the color blocked landing page 
 - create the sign in / register page, which is linked in the navbar of the landing page
 - create M2 project and add issues to it
 
-## Design Plan for M2
-
+For M2:
 - update the schema prisma for better funcitonality and add bird data
 - add four more pages:
   - birds of manoa page
@@ -60,13 +82,11 @@ M2 Project and its issues can be seen here:
   - list all sightings page
 - add user guide and developer guide to home page with updated screenshots of the pages
 
-## User Guide 
-
-(needs to be added still)
-
-## Developer Guide
-
-(needs to be added still)
+For M3:
+- thoroughly test the website with our own login information and bird sightings
+- thoroughly test the website with at least 5 UHM volunteers using it
+- "implement acceptance testing"
+- update homepage with current status of the website and "community feedback" section
 
 ## Project Proposal
 
@@ -74,12 +94,6 @@ M2 Project and its issues can be seen here:
 <img width="600px" style="border-radius: 10%;" class="rounded float-start pe-4" src="Images\manoa_bird_watch_login_page.png">
 <img width="600px" style="border-radius: 10%;" class="rounded float-start pe-4" src="Images\manoa_bird_watch_report_sighting_page.png">
 <img width="600px" style="border-radius: 10%;" class="rounded float-start pe-4" src="Images\manoa_bird_watch_your_sightings_page.png">
-
-## Overview
-
-_The problem:_ The Manoa campus is home to a diverse collection of plant and animal species, including many native to Hawaii. As a result, there are many avid bird watchers and people interested in where to find bird species, what time of day can you see these birds, and what bird species are you actually looking at. How can you find the bird you are looking for on campus reliably?
-
-_The solution:_ Design a website to collect a list of birds and various information about them such as spotted locations, species and name, and what time of day and what part of the year can you spot them. Users can login and post information about where the birds have been spotted to better aid other bird watchers in finding them. 
 
 ## Approach
 
