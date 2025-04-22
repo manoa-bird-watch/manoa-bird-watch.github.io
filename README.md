@@ -52,17 +52,11 @@ It currently features the landing page, which has a navbar with links to the sig
 <img width="600px" style="border-radius: 10%;" class="rounded float-start pe-4" src="Images\manoa_bird_watch_sign_in_page_M1.png">
 
 
-M1 Project and its issues can be seen here:  
+Projects and their issues can be seen here:  
 [code repo](https://github.com/manoa-bird-watch/M1)  
-[issues board](https://github.com/orgs/manoa-bird-watch/projects/1/views/1?layout=board)  
-
-M2 Project and its issues can be seen here:   
-[code repo](https://github.com/manoa-bird-watch/manoa-bird-watch-app)  
-[issues board](https://github.com/orgs/manoa-bird-watch/projects/4/views/1)  
-
-M3 Project and its issues can be seen here:
-[code repo](https://github.com/manoa-bird-watch/manoa-bird-watch-app)  
-[issues board](https://github.com/orgs/manoa-bird-watch/projects/5/views/1?system_template=team_planning&layout=table)  
+[M1 issues board](https://github.com/orgs/manoa-bird-watch/projects/1/views/1?layout=board)  
+[M2 issues board](https://github.com/orgs/manoa-bird-watch/projects/4/views/1)  
+[M3 issues board](https://github.com/orgs/manoa-bird-watch/projects/5/views/1?system_template=team_planning&layout=table)  
 
 ## Design Plan 
 
