@@ -40,6 +40,7 @@ M1 Project and its issues can be seen here:
 
 M2 Project and its issues can be seen here:   
 <https://github.com/orgs/manoa-bird-watch/projects/4>  
+<https://github.com/orgs/manoa-bird-watch/projects/4/views/1>
 
 ## Design Plan for M1
 
@@ -57,6 +58,15 @@ M2 Project and its issues can be seen here:
   - list your sightings page
   - list all sightings page
 - add user guide and developer guide to home page with updated screenshots of the pages
+
+## User Guide 
+
+(needs to be added still)
+
+
+## Developer Guide
+
+(needs to be added still)
 
 ## Project Proposal
 
