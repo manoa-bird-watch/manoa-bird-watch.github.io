@@ -53,7 +53,7 @@ It currently features the landing page, which has a navbar with links to the sig
 
 
 Projects and their issues can be seen here:  
-[code repo](https://github.com/manoa-bird-watch/M1)  
+[Code repo](https://github.com/manoa-bird-watch/M1)  
 [M1 issues board](https://github.com/orgs/manoa-bird-watch/projects/1/views/1?layout=board)  
 [M2 issues board](https://github.com/orgs/manoa-bird-watch/projects/4/views/1)  
 [M3 issues board](https://github.com/orgs/manoa-bird-watch/projects/5/views/1?system_template=team_planning&layout=table)  
