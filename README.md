@@ -38,8 +38,48 @@ _The solution:_ Design a website to collect a list of birds and various informat
 
 ## Developer Guide
 
-(needs to be added still)
+### Prerequisites:
 
+You must have [PostgreSQL](https://www.postgresql.org/download/) installed on to your system first in order to enable database functionality. ***Remember and/or record the username and password that you set for your database during installation***.
+
+Installing [VSCode](https://code.visualstudio.com/download) and [Github Desktop](https://desktop.github.com/download/), although not necessary, will make development using this code much easier.
+
+### Installation and Execution:
+
+(Note that the following commands may take up to a few minutes to fully execute)
+
+Create a database for this web app by entering in the following command in a cmd line window:
+
+```
+createdb manoa-bird-watch-db
+```
+
+ Navigate to the [Manoa Bird Watch App repository](https://github.com/manoa-bird-watch/manoa-bird-watch-app) and either click the green "Code" button to download and extract the zip file to your file system, or click the "fork" button to fork the repository to make your own copy, then either download and extract again or use Github Desktop to clone the forked repo to your system.
+
+Next, cd (or if using VSCode, open a terminal) into your local directory containing the repo code, and install all third party libraries using:
+
+```
+npm install
+```
+
+Then, create a new .env file, copying the information within the sample.env file, and change the "user" and "password" substrings of the DATABASE_URL field to what you have set it to when you installed PostgreSQL.
+
+Run the following commands to initialize the PostgreSQL tables and to seed the database with the necessary bird information:
+
+```
+npx prisma migrate dev
+```
+
+```
+npx prisma db seed
+```
+
+Once everything has been installed and the database has been initialized and seeded, you can then run the program by invoking the command:
+```
+npm run dev
+```
+
+Your resulting version of the Manoa Bird Watch app can then be accessed through localhost:3000 on your web browser, or through whichever hostname next.js assigns to your run.
 ## Deployment
 
 Here is the deployed application:
