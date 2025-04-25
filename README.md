@@ -34,23 +34,23 @@ _The solution:_ Design a website to collect a list of birds and various informat
 
 ## User Guide 
 
-The Birds of Manoa website experience starts with a home page. On the home page, users can see an introduction to the website, and if they scroll down, a couple of currently featured bird species that can be seen in Manoa. If a user is not yet signed in, the navbar gives users the options "ALL BIRDS" to go to that page or the "LOGIN" dropdown, where users can select sign in or sign up, and go to the corresponding page.  
+The Birds of Manoa website experience starts with a home page. On the home page, users can see an introduction to the website, and if they scroll down, a couple of currently featured bird species that can be seen in Manoa. If a user is not yet signed in, the navbar gives users the options "All Birds" to go to that page or the "Login" dropdown, where users can select sign in or sign up, and go to the corresponding page.  
 <img width="600px" style="border-radius: 10%;" class="rounded float-start pe-4" src="Images/M2homepage.png">  
 <img width="600px" style="border-radius: 10%;" class="rounded float-start pe-4" src="Images/manoa_bird_watch_landing_page2_M1.png">
 
-ALL BIRDS takes all users to Birds of Manoa, a page that displays all of the birds that may reasonably be seen in the Manoa area. It has a card for each bird with their picture, common name, olelo Hawai name if they have one, their scientific name, and a description of them. This image shows the top of the page, which extends farther down to detail the 25 birds that are most likely to be seen in the Manoa area.
+All Birds takes all users to Birds of Manoa, a page that displays all of the birds that may reasonably be seen in the Manoa area. It has a card for each bird with their picture, common name, olelo Hawai name if they have one, their scientific name, and a description of them. This image shows the top of the page, which extends farther down to detail the 25 birds that are most likely to be seen in the Manoa area.
 <img width="600px" style="border-radius: 10%;" class="rounded float-start pe-4" src="Images/M2allbirds.png">   
 
-At the sign up and sign in pages, users can either create a new account and then be signed in to it, or sign in to an account they previously made. Having an account is important because it allows the user to add their own bird sightings on the report sighting page, and see their past sightings on the list sightings page. Once signed in, users will see the "REPORT SIGHTING" and "LIST SIGHTING" options available to them in the navbar.    
+At the sign up and sign in pages, users can either create a new account and then be signed in to it, or sign in to an account they previously made. Having an account is important because it allows the user to add their own bird sightings on the report sighting page, and see their past sightings on the list sightings page. Once signed in, users will see the "Report Sighting" and "Your Sightings" options available to them in the navbar.    
 <img width="600px" style="border-radius: 10%;" class="rounded float-start pe-4" src="Images\manoa_bird_watch_sign_up_page_M1.png">   
 <img width="600px" style="border-radius: 10%;" class="rounded float-start pe-4" src="Images\manoa_bird_watch_sign_in_page_M1.png">   
 
-In the report sightings page, users can add a new sighting of a bird in Manoa! It features ____ . The list sightings page then updates to show all of the sightings that the signed in user has made.   
+In the report sightings page, users can add a new sighting of a bird in Manoa! It features a dropdown of the possible birds so that users do not have to enter the birds information themselves, and users as asked to report what date and time they saw the bird. The list sightings page then updates to show all of the sightings that the signed in user has made.   
 <img width="600px" style="border-radius: 10%;" class="rounded float-start pe-4" src="Images/M2reportsightings.png">
 <img width="600px" style="border-radius: 10%;" class="rounded float-start pe-4" src="Images/M2reportsightings2.png">
 <img width="600px" style="border-radius: 10%;" class="rounded float-start pe-4" src="Images/M2yoursightings.png">
 
-For all users, signed in or not, the "ALL SIGHTINGS" navbar option will take them to the All Sightings page, that displays all bird sightings that have been reported, from all signed in users.   
+For all users, signed in or not, the "All Sightings" navbar option will take them to the All Sightings page, that displays all bird sightings that have been reported, from all signed in users.   
 <img width="600px" style="border-radius: 10%;" class="rounded float-start pe-4" src="Images/M2allsightings.png">
 
 
