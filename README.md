@@ -130,7 +130,7 @@ For M2:
 For M3:
 - thoroughly test the website with our own login information and bird sightings
 - thoroughly test the website with at least 5 UHM volunteers using it
-- implement acceptance testing
+- implement acceptance testingh
 - update homepage with current status of the website and "community feedback" section
 
 ## Project Proposal
