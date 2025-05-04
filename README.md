@@ -17,14 +17,15 @@ Members
 ## Table of contents
 1. [Overview](#overview)
 2. [User Guide](#user-guide)
-3. [Developer Guide](#developer-guide)
-4. [Deployment](#deployment)
-5. [Design Plan](design-plan)
-6. [Project Proposal](#project-proposal)
-7. [Approach](#approach)
-8. [Features](#features)
-9. [Use Case Ideas](#use-case-ideas)
-10. [Beyond the Basics](#beyond-the-basics)
+3. [Community Feedback](#community-feedback)
+4. [Developer Guide](#developer-guide)
+5. [Deployment](#deployment)
+6. [Design Plan](design-plan)
+7. [Project Proposal](#project-proposal)
+8. [Approach](#approach)
+9. [Features](#features)
+10. [Use Case Ideas](#use-case-ideas)
+11. [Beyond the Basics](#beyond-the-basics)
 
 ## Overview
 
@@ -53,6 +54,9 @@ In the report sightings page, users can add a new sighting of a bird in Manoa! I
 For all users, signed in or not, the "All Sightings" navbar option will take them to the All Sightings page, that displays all bird sightings that have been reported, from all signed in users.   
 <img width="600px" style="border-radius: 10%;" class="rounded float-start pe-4" src="Images/M2allsightings.png">
 
+## Community Feedback
+
+We have received testing and feedback from other UH students and JABSOM employees. Feedback was initially focused on errors they encountered. The major issue that was encountered was the report sighting page not working, with nothing happening upon clicking "submit." The visuals and overall concept were well received.
 
 ## Developer Guide
 
