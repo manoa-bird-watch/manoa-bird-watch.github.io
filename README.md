@@ -58,6 +58,7 @@ For all users, signed in or not, the "All Sightings" navbar option will take the
 
 We have received testing and feedback from other UH students and JABSOM employees. Feedback was initially focused on errors they encountered. The major issue that was encountered was the report sighting page not working, with nothing happening upon clicking "submit." The visuals and overall concept were well received.
 
+
 ## Developer Guide
 
 ### Prerequisites:
