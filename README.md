@@ -54,6 +54,8 @@ In the report sightings page, users can add a new sighting of a bird in Manoa! I
 For all users, signed in or not, the "All Sightings" navbar option will take them to the All Sightings page, that displays all bird sightings that have been reported, from all signed in users.   
 <img width="600px" style="border-radius: 10%;" class="rounded float-start pe-4" src="Images/M2allsightings.png">
 
+New functionality that was added in M3 includes the ability of users to report the location of the bird they sighted on the report sightings page, which is vital to the user experience as seeing where others have reported seeing different bird species allows other bird watchers to expand the locations they may see birds in Manoa as well. There is also the ability for users to edit or delete their own reports, and the implementation of an admin role user that can edit or delete any user's reports. Coming soon is the ability to comment on other user's sightings!
+
 ## Community Feedback
 
 We have received testing and feedback from other UH students and JABSOM employees. Feedback was initially focused on errors they encountered. The major issue that was encountered was the report sighting page not working, with nothing happening upon clicking "submit." The visuals and overall concept were well received.
@@ -118,7 +120,7 @@ Projects and their issues can be seen here:
 [Code repo](https://github.com/manoa-bird-watch/M1)  
 [M1 issues board](https://github.com/orgs/manoa-bird-watch/projects/1/views/1?layout=board)  
 [M2 issues board](https://github.com/orgs/manoa-bird-watch/projects/4/views/1)  
-[M3 issues board](https://github.com/orgs/manoa-bird-watch/projects/5/views/1?system_template=team_planning)  
+[M3 issues board](https://github.com/orgs/manoa-bird-watch/projects/5/views/1?system_template=team_planning)
 
 ## Design Plan 
 
@@ -141,7 +143,7 @@ For M2:
 For M3:
 - thoroughly test the website with our own login information and bird sightings
 - thoroughly test the website with at least 5 UHM volunteers using it
-- implement acceptance testingh
+- implement acceptance testing
 - update homepage with current status of the website and "community feedback" section
 
 ## Project Proposal
