@@ -57,11 +57,12 @@ For all users, signed in or not, the "All Sightings" navbar option will take the
 ## Community Feedback
 
 We have received testing and feedback from other UH students and JABSOM employees. Feedback was initially focused on errors they encountered. The major issue that was encountered was the report sighting page not working, with nothing happening upon clicking "submit." The visuals and overall concept were well received.
-Some of adeded this app is valued for helping children develop an interest in bird watching by making it engaging and easy to learn about different bird species. This might help people, especially beginners, learn how to identify birds.
+
+Some of this app is valued for helping children, students, or others in Manoa develop an interest in bird watching by making it engaging and easy to learn about different bird species. This might help people, especially beginners, learn how to identify birds.
 
 The "All Birds" tab is helpful because it lets users explore a wide variety of bird species and learn about their original locations. This makes it easy to review and compare different birds, understand where they come from, and discover new ones they might see in the wild.
 
-One challenge is that the "Your Sighting" tab is not easy to navigate or may not be working properly. If it were functional, it could help users keep track of the birds they have seen and make it easier to count and review their sightings.
+One challenge reported was the "Your Sighting" tab being not easy to navigate or not working properly. If it were functional, it could help users keep track of the birds they have seen and make it easier to count and review their sightings. This will be updated soon!
 
 
 ## Developer Guide
