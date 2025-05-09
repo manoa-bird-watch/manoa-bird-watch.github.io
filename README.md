@@ -1,4 +1,4 @@
-![ci-badge](https://github.com/manoa-bird-watch/manoa-bird-watch-app/workflows/manoa-bird-watch/badge.svg)
+![ci-badge](https://github.com/manoa-bird-watch/manoa-bird-watch-app/actions/workflows/ci.yml/badge.svg)
 
 Software Engineering Project 2025 (ICS 314)
 
